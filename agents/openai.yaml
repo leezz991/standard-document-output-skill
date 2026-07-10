@@ -1,0 +1,4 @@
+interface:
+  display_name: "标准格式文件输出"
+  short_description: "在公文模式与对外通用模式之间选择并生成标准 Word 文件"
+  default_prompt: "Use $standard-document-output to create this Word document in the appropriate official or general template mode."
